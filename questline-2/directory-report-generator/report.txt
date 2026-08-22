@@ -1,8 +1,1 @@
-Directory Report
-================
 
-Total number of files: 2
-Total number of executable files: 1
-Largest file: README.md
-Most recently modified file: directory_report.sh
-Number of hidden files: 0
