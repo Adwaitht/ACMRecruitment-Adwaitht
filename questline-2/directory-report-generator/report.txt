@@ -1,1 +1,7 @@
-
+Directory Report
+=================
+Total number of files: 3
+Total number of executable files: 1
+Largest file: 643 ./directory_report.sh
+Most recently modified file: 1787416036.9281014000 ./directory_report.sh
+Number of hidden files: 0
